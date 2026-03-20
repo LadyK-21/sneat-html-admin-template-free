@@ -14,7 +14,7 @@
 
 ![GitHub](https://img.shields.io/github/license/themeselection/sneat-html-admin-template-free) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/themeselection/sneat-html-admin-template-free) ![GitHub issues](https://img.shields.io/github/issues/themeselection/sneat-html-admin-template-free) ![GitHub closed issues](https://img.shields.io/github/issues-closed/themeselection/sneat-html-admin-template-free) ![Twitter Follow](https://img.shields.io/twitter/follow/Theme_Selection?style=social)
 
-[![Sneat - Bootstrap 5 HTML Admin Template Demo Screenshot](https://github.com/themeselection/ts-assets/blob/main/sneat/sneat-bootstrap-html-admin-template-free/marketing/sneat-hrml-free-banner-github.png)](https://themeselection.com/item/sneat-free-bootstrap-html-admin-template/)
+<kbd>[![Sneat - Bootstrap 5 HTML Admin Template Demo Screenshot](https://cdn.themeselection.com/ts-assets/sneat/sneat-bootstrap-html-admin-template-free/marketing/sneat-html-free-banner-github.png)](https://themeselection.com/item/sneat-dashboard-free-bootstrap/)</kbd>
 
 ## Introduction 🚀
 
